@@ -3,7 +3,7 @@
 const exhibitionsData =[{
     title : "Dubai Exhibition",
     category: "mumbai",
-    description:['World art Dubai was an experience in itself...appreciation came from all the artists and got a place in their news and magazine.']
+    description:['World art Dubai was an experience in itself. The dynamic fusion of traditional craftsmanship and contemporary design in my sculptures captivated a diverse audience, fostering engaging discussions and a deeper appreciation for the art form. It was really nice to be part of such a prestigious event, appreciation came from all the artists and got a place in their news and magazine.']
 },
 
 {
@@ -15,6 +15,6 @@ const exhibitionsData =[{
 {
     title:"Mumbai Exhibition",
     category:"jaipur",
-    description:['Mumbai exhibition came with a very fresh beginning and a new experience with the footfall from the Bollywood film industry. Made a few impressions on some hearts was all I gained over there.']
+    description:['Mumbai exhibition came with a very fresh beginning and a new experience with the footfall from the Bollywood film industry. Made a few impressions on some hearts , was all I gained over there.']
 },
 ]
